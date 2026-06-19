@@ -1,7 +1,5 @@
 # Salary-Prediction-Using-Polynomial-Regression
 
-# Salary Prediction Using Polynomial Regression
-
 ## Project Overview
 This project predicts employee salary based on years of experience using Polynomial Regression, a type of Non-Linear Regression.
 
